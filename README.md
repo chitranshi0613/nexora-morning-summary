@@ -26,3 +26,4 @@ Nexora Marketing Agency — delivered as a real client project, May 2026
 
 ## Workflow file
 Import `Daily_Morning_Summary.json` directly into n8n to use this workflow.
+
