@@ -25,5 +25,5 @@ chasing payments, and reviewing leads. This workflow does it in 0 minutes.
 Nexora Marketing Agency — delivered as a real client project, May 2026
 
 ## Workflow file
-Import `Daily_Morning_Summary.json` directly into n8n to use this workflow.
+Import `daily_morning_summary.json` directly into n8n to use this workflow.
 
