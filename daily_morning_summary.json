@@ -48,7 +48,7 @@
       "name": "Get row(s) in sheet",
       "credentials": {
         "googleSheetsOAuth2Api": {
-          "id": "BG7HxfslRogsXpME",
+          "id": "",
           "name": "Google Sheets account"
         }
       }
@@ -81,7 +81,7 @@
       "name": "Get row(s) in sheet1",
       "credentials": {
         "googleSheetsOAuth2Api": {
-          "id": "BG7HxfslRogsXpME",
+          "id": "",
           "name": "Google Sheets account"
         }
       }
@@ -116,7 +116,7 @@
       "name": "Groq Chat Model",
       "credentials": {
         "groqApi": {
-          "id": "DsBDbJRjjk8vIt78",
+          "id": "",
           "name": "Groq account"
         }
       }
@@ -140,7 +140,7 @@
       "webhookId": "ac2f37d4-297a-49be-a8f3-4b875bb41ea6",
       "credentials": {
         "gmailOAuth2": {
-          "id": "4RwmjihjE0TeIrxX",
+          "id": "",
           "name": "Gmail account"
         }
       }
